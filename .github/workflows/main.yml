@@ -1,0 +1,2 @@
+- name: Upload to Dropbox
+  uses: deka0106/upload-to-dropbox@v2.0.0
